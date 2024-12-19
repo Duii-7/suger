@@ -5,3 +5,6 @@ DOMAIN-SUFFIX,npmjs.org
 
 # x.ai
 IP-CIDR,104.22.14.246/32
+
+# google
+IP-CIDR,95.161.76.101/32
