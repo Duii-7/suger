@@ -3,4 +3,5 @@ DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,cursor.com
 DOMAIN-SUFFIX,npmjs.org
 
-PROCESS-NAME,spotube
+# x.ai
+IP-CIDR,104.22.14.246/32
